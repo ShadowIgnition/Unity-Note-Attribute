@@ -28,6 +28,14 @@ public class MyScript : MonoBehaviour
 
 5. In the Inspector, you will now see a note above the associated field.
 
+## Customization
+You can customize the appearance and behavior of the note drawer by modifying the following constants in the `NoteDrawer` class:
+
+- `AUTO_MAX_HEIGHT`: Maximum number of lines for the note text area.
+- `AUTO_MIN_HEIGHT`: Minimum number of lines for the note text area.
+
+You can also modify the `GetNoteStyle` method to change the visual style of the note box.
+
 ## Notes
 
 - The `NoteAttribute` is purely for preview purposes in the Unity Inspector and does not affect the runtime behavior of your game or application.
