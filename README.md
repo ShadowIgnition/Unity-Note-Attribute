@@ -31,8 +31,8 @@ public class MyScript : MonoBehaviour
 ## Customization
 You can customize the appearance and behavior of the note drawer by modifying the following constants in the `NoteDrawer` class:
 
-- `AUTO_MAX_HEIGHT`: Maximum number of lines for the note text area.
-- `AUTO_MIN_HEIGHT`: Minimum number of lines for the note text area.
+- `AUTO_MAX_HEIGHT`: Maximum number of lines for the note text area (auto-sizing only).
+- `AUTO_MIN_HEIGHT`: Minimum number of lines for the note text area (auto-sizing only).
 
 You can also modify the `GetNoteStyle` method to change the visual style of the note box.
 
