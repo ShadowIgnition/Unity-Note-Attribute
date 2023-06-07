@@ -14,8 +14,6 @@ To use the `NoteAttribute`, follow these steps:
 In this example, the `NoteAttribute` is attached to the `myField` serialized field in the `MyScript` MonoBehaviour. The provided note description will be displayed in the Unity Inspector for the `myField` field.
 
 ```csharp
-using UnityEngine;
-
 public class MyScript : MonoBehaviour
 {
     [Note("This is a note for the field.")]
