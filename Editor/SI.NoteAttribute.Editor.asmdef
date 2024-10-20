@@ -1,0 +1,18 @@
+{
+    "name": "SI.NoteAttribute.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d281c34580c69d141a9e39cef15ed80d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
