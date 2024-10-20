@@ -1,0 +1,18 @@
+{
+  "name": "com.shadowignition.unitynoteattribute",
+  "displayName": "Unity Note Attribute",
+  "description": "The NoteAttribute is a custom attribute used for creating Inspector notes in Unity, helpful in streamlining design processes.",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowIgnition/Unity-Note-Attribute.git"
+  },
+  "author": {
+    "name": "shadowignition",
+    "email": "43722770+ShadowIgnition@users.noreply.github.com",
+    "url": "https://github.com/shadowignition"
+  },
+  "dependencies": {}
+}
